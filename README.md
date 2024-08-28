@@ -1,4 +1,4 @@
-#Notes to be aware of:
+# Notes to be aware of:
 
 The action in the textfields is based on the private class TextFieldHandler
 
@@ -6,7 +6,7 @@ The action of the button is using a no-name event listener.
 
 In this Test the method actionPerformed() is using the class JOptionPane for display.
 
-##On the use of No-name Class
+## On the use of No-name Class
 
 In the previous example the action of the textfields  was processed by the object handler of the private (or inner) class TextFieldHandler,
 
